@@ -1,0 +1,6 @@
+*.eml
+*.html
+*.gif
+libs/commons-io-2.5/docs/stylesheet.css
+libs/commons-io-2.5/docs/package-list
+SPAMTrain.label
